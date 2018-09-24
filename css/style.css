@@ -162,7 +162,7 @@ body {
 }
 /*-- /link-effect --*/
 .banner {
-	background:url(../images/mi.JPG) no-repeat;
+	background:url(../images/mi.jpg) no-repeat;
 	background-position:center;
 	background-size:cover;
 	-webkit-background-size:cover;
